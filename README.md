@@ -156,6 +156,13 @@ Political information may change over time. Important claims should include rele
 
 ---
 
+## Repository Guidance
+
+- Agent instructions: [AGENTS.md](AGENTS.md)
+- Domain guidance: [docs/editorial-guidance.md](docs/editorial-guidance.md)
+- Global engineering policy: [hb-AI-policy](https://github.com/HephzibahBehulahHQ/hb-AI-policy)
+- Visual standards: [hb-design-system](https://github.com/HephzibahBehulahHQ/hb-design-system)
+
 ## Development Status
 
 **Current phase:** Brand website planning and architecture.
